@@ -1,0 +1,15 @@
+body {
+  margin: 20px;
+}
+
+#responsibilities {
+	padding-left: 260px
+}
+
+li{
+	margin-top:-30px
+}
+
+pre, p {
+   margin-top:-20px;
+}
